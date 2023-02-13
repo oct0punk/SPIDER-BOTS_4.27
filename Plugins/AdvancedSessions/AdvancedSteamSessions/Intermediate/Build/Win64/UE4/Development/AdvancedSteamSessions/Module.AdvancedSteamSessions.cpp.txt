@@ -1,7 +1,7 @@
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
-C:/Users/Emile/Desktop/SPIDERBOTS - Copie/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h
+C:/Users/Emile/Desktop/Library/Programmation/Unreal/SPIDER-BOTS_4.27/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamFriendsLibrary.h
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PlayerState.generated.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Plugins\Online\OnlineSubsystem\Source\Public\Interfaces/OnlineSessionInterface.h
@@ -154,7 +154,7 @@ C:\Logiciels\Game Developpement\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUti
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemUtils\ShowLoginUICallbackProxy.generated.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils/Classes/TurnBasedBlueprintLibrary.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemUtils\TurnBasedBlueprintLibrary.generated.h
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions\BlueprintDataDefinitions.generated.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam/steam_api.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steam_api_common.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamtypes.h
@@ -189,18 +189,18 @@ C:\Logiciels\Game Developpement\UE_4.27\Engine\Source\ThirdParty\Steamworks\Stea
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\steamnetworkingtypes.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamnetworkingsockets.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Source\ThirdParty\Steamworks\Steamv151\sdk\public\steam\isteamnetworkingutils.h
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h
-C:/Users/Emile/Desktop/SPIDERBOTS - Copie/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h
-C:/Users/Emile/Desktop/SPIDERBOTS - Copie/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
-C:/Users/Emile/Desktop/SPIDERBOTS - Copie/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamFriendsLibrary.generated.h
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\OnlineSubSystemHeader.h
+C:/Users/Emile/Desktop/Library/Programmation/Unreal/SPIDER-BOTS_4.27/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamSessions.h
+C:/Users/Emile/Desktop/Library/Programmation/Unreal/SPIDER-BOTS_4.27/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\AdvancedSteamWorkshopLibrary.h
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\AdvancedSteamWorkshopLibrary.generated.h
+C:/Users/Emile/Desktop/Library/Programmation/Unreal/SPIDER-BOTS_4.27/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamRequestGroupOfficersCallbackProxy.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteam.h
 C:\Logiciels\Game Developpement\UE_4.27\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Public\OnlineSubsystemSteamPackage.h
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h
-C:/Users/Emile/Desktop/SPIDERBOTS - Copie/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h
-C:\Users\Emile\Desktop\SPIDERBOTS - Copie\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\SteamRequestGroupOfficersCallbackProxy.generated.h
+C:/Users/Emile/Desktop/Library/Programmation/Unreal/SPIDER-BOTS_4.27/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes\SteamWSRequestUGCDetailsCallbackProxy.h
+C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions\SteamWSRequestUGCDetailsCallbackProxy.generated.h
