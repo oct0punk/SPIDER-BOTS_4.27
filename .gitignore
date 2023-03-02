@@ -72,3 +72,32 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Definitions.AdvancedSessions.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/LiveCodingInfo.json
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.cpp
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.cpp.obj.response
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.cpp.txt
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.1_of_2.cpp
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.1_of_2.cpp.obj.response
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.1_of_2.cpp.txt
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.2_of_2.cpp
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.2_of_2.cpp.obj.response
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Development/AdvancedSessions/Module.AdvancedSessions.gen.2_of_2.cpp.txt
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedExternalUILibrary.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedFriendsGameInstance.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedFriendsInterface.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedFriendsLibrary.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedGameSession.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedIdentityLibrary.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedSessionsLibrary.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/AdvancedVoiceLibrary.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/BlueprintDataDefinitions.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/CancelFindSessionsCallbackProxy.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/CreateSessionCallbackProxyAdvanced.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/EndSessionCallbackProxy.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/FindFriendSessionCallbackProxy.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/FindSessionsCallbackProxyAdvanced.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetFriendsCallbackProxy.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetRecentPlayersCallbackProxy.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/GetUserPrivilegeCallbackProxy.generated.h
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UE4/Inc/AdvancedSessions/LoginUserCallbackProxy.generated.h
