@@ -31,7 +31,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
+/I C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -127,13 +127,13 @@
 /I Developer\TargetPlatform\Public
 /I ..\Intermediate\Build\Win64\UE4\Inc\AnimationCore
 /I Runtime\AnimationCore\Public
-/I C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions
-/I C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source
+/I C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSteamSessions
+/I C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
-/I C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions
-/I C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
+/I C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
+/I C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4\Inc\AdvancedSessions
+/I C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Source
+/I C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
 /I ThirdParty\Steamworks\Steamv151\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -163,17 +163,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Intermediate\Build\Win64\SPIDERBOTS\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Intermediate\Build\Win64\SPIDERBOTS\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Intermediate\Build\Win64\SPIDERBOTS\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
-/FI"C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Users\Emile\Desktop\Library\Programmation\Unreal\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/FI"C:\Workspace\Emile\SPIDER-BOTS_4.27\Intermediate\Build\Win64\SPIDERBOTS\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Workspace\Emile\SPIDER-BOTS_4.27\Intermediate\Build\Win64\SPIDERBOTS\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Workspace\Emile\SPIDER-BOTS_4.27\Intermediate\Build\Win64\SPIDERBOTS\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
+/FI"C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"C:\Workspace\Emile\SPIDER-BOTS_4.27\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
 /TP
 /GR-
 /W4
